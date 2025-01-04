@@ -1,0 +1,169 @@
+{
+  "profissoes": [
+    {
+      "nome": "Desenvolvedor(a) de Software",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 60000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 120000
+      }
+    },
+    {
+      "nome": "Engenheiro(a) de Software",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 70000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 140000
+      }
+    },
+    {
+      "nome": "Analista de Sistemas",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 50000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 100000
+      }
+    },
+    {
+      "nome": "Programador(a)",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 45000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 90000
+      }
+    },
+    {
+      "nome": "Desenvolvedor(a) Front-End",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 55000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 110000
+      }
+    },
+    {
+      "nome": "Desenvolvedor(a) Back-End",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 65000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 130000
+      }
+    },
+    {
+      "nome": "Analista de Testes",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 40000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 80000
+      }
+    },
+    {
+      "nome": "Analista de Qualidade (QA)",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 45000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 90000
+      }
+    },
+    {
+      "nome": "Scrum Master",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 60000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 120000
+      }
+    },
+    {
+      "nome": "Product Owner (PO)",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 70000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 140000
+      }
+    },
+    {
+      "nome": "Arquiteto(a) de Software",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 80000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 160000
+      }
+    },
+    {
+      "nome": "Analista DevOps",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 65000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 130000
+      }
+    },
+    {
+      "nome": "Designer de UX/UI",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 50000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 100000
+      }
+    },
+    {
+      "nome": "Engenheiro(a) de Dados",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 75000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 150000
+      }
+    },
+    {
+      "nome": "Cientista de Dados",
+      "salario_brasil": {
+        "moeda": "R$",
+        "valor": 80000
+      },
+      "salario_eua": {
+        "moeda": "$",
+        "valor": 160000
+      }
+    }
+  ]
+}
