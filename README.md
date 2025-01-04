@@ -1,16 +1,49 @@
-# qsalary
+# QSalary - Descubra seu Salário na Área de TI
 
-A new Flutter project.
+## Descrição
 
-## Getting Started
+O QSalary é um aplicativo Flutter que te ajuda a descobrir a média salarial de diversas profissões na área de desenvolvimento de software no Brasil e nos Estados Unidos.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+* **Carrossel de Profissões:** Navegue por um carrossel interativo com ícones e nomes das profissões. 
+* **Design Moderno:** Interface Material 3 com visual limpo e organizado.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Estrutura do Projeto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O projeto foi desenvolvido com a linguagem Dart e o framework Flutter, utilizando os seguintes componentes:
+
+* **`TelaPrincipal`:** Widget principal que exibe o carrossel, as informações de salário e a barra de navegação.
+* **`Profissao` (model):** Classe que representa os dados de uma profissão (nome, salários, etc.).
+* **`ProfissaoService` (service):** Classe que lê os dados das profissões de um arquivo JSON.
+* **`carousel_slider` (package):** Pacote para criar o carrossel de profissões.
+
+## Como Rodar o Projeto
+
+1. Clone o repositório: `git clone https://github.com/luizpaulo-antunes/Qsalary.git`
+2. Acesse a pasta do projeto: `cd Qsalary`
+3. Instale as dependências: `flutter pub get`
+4. Execute o aplicativo: `flutter run`
+
+## Próximos Passos
+
+* Salários Detalhados:** Veja os salários médios de cada profissão no Brasil e nos EUA.
+* Implementar a lógica para exibir diferentes telas em cada aba da NavigationBar.
+* Adicionar mais profissões e informações relevantes (descrição, habilidades, etc.).
+* Buscar dados de salários de outras fontes (APIs, web scraping).
+* Melhorar o design e a usabilidade do aplicativo.
+* Realizar testes e ajustes finais.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+
+
+
+
+## Desenvolvedores
+
+* Luiz Paulo Antunes
+
+
